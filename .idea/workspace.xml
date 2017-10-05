@@ -75,7 +75,7 @@
       <file leaf-file-name="post_list.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="574" selection-end="574" vertical-scroll-proportion="0.25099075" vertical-offset="133" max-vertical-offset="1653">
+            <state line="17" column="28" selection-start="602" selection-end="602" vertical-scroll-proportion="0.25099075" vertical-offset="133" max-vertical-offset="1653">
               <folding />
             </state>
           </provider>
@@ -518,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="574" selection-end="574" vertical-scroll-proportion="0.25099075" vertical-offset="133" max-vertical-offset="1653">
+        <state line="17" column="28" selection-start="602" selection-end="602" vertical-scroll-proportion="0.25099075" vertical-offset="133" max-vertical-offset="1653">
           <folding />
         </state>
       </provider>
