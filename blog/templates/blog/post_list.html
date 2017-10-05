@@ -15,16 +15,7 @@
             </div>
         </section>
 
-        {% for post in posts %}
-        <div>
-           <p>published: {{ post.published_date }}</p>
-           <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
-           <p>{{ post.text|linebreaksbr }}</p>
-           <div><h1><a href="/post/{{post.id}}">
-           <img src="{{post.photo.url}}" width="600"/></a> </h1></div>
-           <a href="{% url 'post_detail' pk=post.pk %}">Comments: {{ post.approved_comments.count }}</a>
-        </div>
-        {% endfor %}
+
 
          <h3>정말 잘오셧습니다.</h3>
 
