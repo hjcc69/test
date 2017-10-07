@@ -65,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_list.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="post_list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="41" selection-start="766" selection-end="766" vertical-scroll-proportion="0.5270806" vertical-offset="0" max-vertical-offset="1843">
+            <state line="21" column="41" selection-start="766" selection-end="766" vertical-scroll-proportion="-14.25" vertical-offset="0" max-vertical-offset="1843">
               <folding />
             </state>
           </provider>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="-10.857142" vertical-offset="0" max-vertical-offset="741">
+            <state line="14" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.34545454" vertical-offset="0" max-vertical-offset="770">
               <folding />
             </state>
           </provider>
@@ -145,10 +145,10 @@
         <option value="$PROJECT_DIR$/blog/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/blog/url.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/DjangoApplication/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_detail.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
+        <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
       </list>
     </option>
   </component>
@@ -605,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="-10.857142" vertical-offset="0" max-vertical-offset="741">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="855">
@@ -621,7 +614,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="41" selection-start="766" selection-end="766" vertical-scroll-proportion="0.5270806" vertical-offset="0" max-vertical-offset="1843">
+        <state line="21" column="41" selection-start="766" selection-end="766" vertical-scroll-proportion="-14.25" vertical-offset="0" max-vertical-offset="1843">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.34545454" vertical-offset="0" max-vertical-offset="770">
           <folding />
         </state>
       </provider>
