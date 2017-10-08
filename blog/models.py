@@ -23,7 +23,7 @@ class Post(models.Model):
     def __unicode__(self):
         return self.title
 
-'''
+
 class Comment(models.Model):
     post = models.ForeignKey('blog.Post', related_name='comments')
     author = models.CharField(max_length=200)
@@ -36,4 +36,4 @@ class Comment(models.Model):
         self.save()
 
     def __unicode__(self):
-        return self.text'''
+        return self.text

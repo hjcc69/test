@@ -11,10 +11,8 @@ admin.autodiscover()
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^', include('blog.url')),
-    # Examples:
-    # url(r'^$', 'DjangoApplication.views.home', name='home'),
-    # url(r'^DjangoApplication/', include('DjangoApplication.foo.urls')),
-
+    url(r'^accounts/login/$', views.login, name='login'),
+    url(r'^accounts/logout/$', views.logout, name='logout', kwargs={'next_page': '/'}),
     # Uncomment the admin/doc line below to enable admin documentation:
 
    # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
